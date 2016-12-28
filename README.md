@@ -18,8 +18,6 @@ https://www.youtube.com/watch?v=wf7M0iOLcrk
 Installation
 ============
 
-This should be run from the home directory "/home/pi"
-
 You can find the release numbers here:
 https://github.com/biscuits99/rp-video-manager/releases
 
@@ -34,7 +32,6 @@ chmod 755 videomanager.sh
 
 Uninstall
 ==========
-Make sure your video settings are as you want them, then delete this directory:
-/home/pi/rp-video-manager
+Make sure your video settings are as you want them, then delete the rp-video-manager directory.
 
 You can use the "rm -rf rp-video-manager" command
